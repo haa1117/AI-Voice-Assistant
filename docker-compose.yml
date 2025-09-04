@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  assistx:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./database:/app/database
+      - ./logs:/app/logs
+      - ./voice_logs:/app/voice_logs
+    environment:
+      - ENVIRONMENT=production
+    restart: unless-stopped 
