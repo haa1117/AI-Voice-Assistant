@@ -1,3 +1,8 @@
+<img width="1880" height="917" alt="Screenshot 2025-06-24 040059" src="https://github.com/user-attachments/assets/1ce66ad8-0b22-4ae5-95c2-3c6f94682ee5" />
+<img width="1877" height="913" alt="Screenshot 2025-06-24 040143" src="https://github.com/user-attachments/assets/5b9f42b9-f92c-4180-802b-78eeb3606226" />
+<img width="1892" height="906" alt="Screenshot 2025-06-24 040226" src="https://github.com/user-attachments/assets/615b324a-7821-408a-a99a-2faf07984f70" />
+
+
 # AssistX – AI Voice Assistant for Medical Clinics
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://python.org)
